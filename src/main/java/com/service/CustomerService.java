@@ -13,4 +13,5 @@ public interface CustomerService {
 	public Customer getCustomers(int id);
 
 	public void deleteCustomer(int id);
+	
 }
