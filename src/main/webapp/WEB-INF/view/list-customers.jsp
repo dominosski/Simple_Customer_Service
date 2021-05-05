@@ -7,9 +7,6 @@
 <meta charset="ISO-8859-1">
 <title>List of customers</title>
 
-<link type="text/css"
-	rel="stylesheet"
-	href="src/webapp/WEB-INF/resources/css/style.css"/>
 </head>
 <body>
 	<div id="wrapper">
